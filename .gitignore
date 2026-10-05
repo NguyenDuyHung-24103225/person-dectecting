@@ -1,0 +1,18 @@
+# Dataset (khong dua len GitHub, qua lon ~720MB)
+PeopleCountingDataSet/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+
+# Env
+.venv/
+venv/
+env/
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
